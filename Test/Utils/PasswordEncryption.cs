@@ -11,7 +11,10 @@ namespace Test.Utils
         {
             if(!string.IsNullOrEmpty(password))
             {
-               return BCrypt.Net.BCrypt.HashPassword(password);
+                byte[] sourceByte = Encoding.UTF8.GetBytes(password);
+                byte[] hashbyte = SHA1.HashData(sourceByte);
+                string hash = BitConverter.ToString(hashbyte).Replace("-", String.Empty);
+                return hash.ToLower();
             }
             else
                 throw new PasswordException("Password can't be empty");

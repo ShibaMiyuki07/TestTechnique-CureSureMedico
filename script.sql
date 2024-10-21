@@ -1,1 +1,1 @@
-create table login(userId serial primary key,username text,password text);
+create table login(userId serial primary key,username varchar(60) unique,password text);
