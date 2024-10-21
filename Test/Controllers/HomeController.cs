@@ -7,27 +7,22 @@ using Test.Utils;
 
 namespace Test.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(ILogger<HomeController> logger, IConfiguration configuration, IHttpContextAccessor contextAccessor) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-        private readonly IConfiguration configuration;
-        private readonly IHttpContextAccessor contextAccessor;
+        private readonly ILogger<HomeController> _logger = logger;
+        private readonly IConfiguration configuration = configuration;
+        private readonly IHttpContextAccessor contextAccessor = contextAccessor;
 
-        public HomeController(ILogger<HomeController> logger, IConfiguration configuration, IHttpContextAccessor contextAccessor)
-        {
-            _logger = logger;
-            this.configuration = configuration;
-            this.contextAccessor = contextAccessor;
-        }
-
+        //Index page
         [HttpGet("/")]
         public IActionResult Login()
         {
             return View();
         }
 
+        //Function for login to the home page
         [HttpPost("/")]
-        public IActionResult Login(string username,string password)
+        public async Task<IActionResult> Login(string username,string password)
         {
             try
             {
@@ -36,11 +31,15 @@ namespace Test.Controllers
                     UserName = username,
                     Password = PasswordEncryption.ToHash(password)
                 };
-                contextAccessor.HttpContext!.Session.SetString("UserData",JsonSerializer.Serialize(new LoginService(configuration).Login(user)));
+                LoginModel logged = await new LoginService(configuration).Login(user)!;
+
+                //Serialize the data retrieved from database and use to the session
+                contextAccessor.HttpContext!.Session.SetString("UserData",JsonSerializer.Serialize(logged));
                 return View();
             }
             catch (Exception ex) 
             {
+                //Display the error got during the process of retrieving data from database
                 TempData["error"] = ex.Message;
                 return RedirectToAction("Login", "Home");
             }
@@ -49,6 +48,7 @@ namespace Test.Controllers
         [HttpGet]
         public IActionResult Logout() 
         {
+            //Removing the key of the session that we use to stock our data
             contextAccessor.HttpContext!.Session.Remove("UserData");
             return RedirectToAction("Login", "Home");
         }
