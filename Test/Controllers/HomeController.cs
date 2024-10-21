@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using Test.Models;
+using Test.Utils;
 
 namespace Test.Controllers
 {
@@ -13,14 +14,29 @@ namespace Test.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        [HttpGet("/")]
+        public IActionResult Login()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        [HttpPost("/")]
+        public IActionResult Login(string username,string password)
         {
-            return View();
+            try
+            {
+                LoginModel user = new()
+                {
+                    UserName = username,
+                    Password = PasswordEncryption.ToHash(password)
+                };
+                return View();
+            }
+            catch (Exception ex) 
+            {
+                TempData["error"] = ex.Message;
+                return RedirectToAction("Login", "Home");
+            }
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

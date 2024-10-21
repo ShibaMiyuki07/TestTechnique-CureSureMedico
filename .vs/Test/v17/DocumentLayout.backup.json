@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\dotnet\\Test technique\\Test\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Test\\Services\\LoginService.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
+              "RelativeToolTip": "Test\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:04:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T07:51:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordEncryption.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeDocumentMoniker": "Test\\Utils\\PasswordEncryption.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeToolTip": "Test\\Utils\\PasswordEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:40:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:36:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA1wCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:34:54.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

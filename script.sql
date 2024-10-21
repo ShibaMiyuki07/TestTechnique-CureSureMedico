@@ -1,0 +1,1 @@
+create table login(userId serial primary key,username text,password text);
