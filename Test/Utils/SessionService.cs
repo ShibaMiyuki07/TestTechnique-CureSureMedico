@@ -6,6 +6,7 @@ namespace Test.Utils
 {
     public class SessionService
     {
+        //Function to check if the session is valid 
         public static void IsConnected(string session)
         {
             if (string.IsNullOrEmpty(session))
@@ -18,6 +19,7 @@ namespace Test.Utils
 
         }
 
+        //Get data from the session
         public static LoginModel GetUserData(string session) 
         {
             LoginModel user = JsonSerializer.Deserialize<LoginModel>(session) ?? throw new UserNotConnectedException();
