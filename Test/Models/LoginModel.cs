@@ -10,7 +10,7 @@ namespace Test.Models
 
         public string Password { get; set; } = String.Empty;
 
-
+        #region FromReader
         public LoginModel FromReader(NpgsqlDataReader reader)
         {
             return new LoginModel()
@@ -19,6 +19,6 @@ namespace Test.Models
                 UserName = reader.GetString("username")
             };
         }
-
+        #endregion
     }
 }

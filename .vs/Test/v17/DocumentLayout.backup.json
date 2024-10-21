@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "D:\\dotnet\\Test technique\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\exceptions\\connectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\exceptions\\connectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\sessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B5FB7-19B5-44FF-B372-BBB27C7AD1B2}|Test unitaire\\Test unitaire.csproj|d:\\dotnet\\test technique\\test\\test unitaire\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA4B5FB7-19B5-44FF-B372-BBB27C7AD1B2}|Test unitaire\\Test unitaire.csproj|solutionrelative:test unitaire\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B5FB7-19B5-44FF-B372-BBB27C7AD1B2}|Test unitaire\\Test unitaire.csproj|d:\\dotnet\\test technique\\test\\test unitaire\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA4B5FB7-19B5-44FF-B372-BBB27C7AD1B2}|Test unitaire\\Test unitaire.csproj|solutionrelative:test unitaire\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\exceptions\\usernotconnectedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\exceptions\\usernotconnectedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +59,16 @@
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\exceptions\\passwordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\exceptions\\passwordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\exceptions\\connectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\models\\exceptions\\connectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,102 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
-              "RelativeDocumentMoniker": "Test\\Services\\LoginService.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
-              "RelativeToolTip": "Test\\Services\\LoginService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAowBkAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
+              "RelativeDocumentMoniker": "Test\\Utils\\SessionService.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
+              "RelativeToolTip": "Test\\Utils\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T08:04:15.089Z",
+              "WhenOpened": "2024-10-21T14:20:41.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordEncryption.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
-              "RelativeDocumentMoniker": "Test\\Utils\\PasswordEncryption.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
-              "RelativeToolTip": "Test\\Utils\\PasswordEncryption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:40:28.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAApwCQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:34:54.658Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.Production.json",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.Production.json",
+              "RelativeToolTip": "Test\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T14:19:54.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\LoginModel.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\LoginModel.cs",
-              "RelativeToolTip": "Test\\Models\\LoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA3AAAAAAAAAA==",
+              "Title": "ConnectionException.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\ConnectionException.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\ConnectionException.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\ConnectionException.cs",
+              "RelativeToolTip": "Test\\Models\\Exceptions\\ConnectionException.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:29:44.766Z",
+              "WhenOpened": "2024-10-21T12:26:13.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotFoundException.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\UserNotFoundException.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotFoundException.cs",
-              "RelativeToolTip": "Test\\Models\\Exceptions\\UserNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:12:10.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Test\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:29:43.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:36:26.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Test\\appsettings.Development.json",
@@ -162,20 +134,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConnectionException.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\ConnectionException.cs",
-              "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\ConnectionException.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\ConnectionException.cs",
-              "RelativeToolTip": "Test\\Models\\Exceptions\\ConnectionException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:26:13.289Z",
+              "WhenOpened": "2024-10-21T07:34:54.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Test\\Services\\LoginService.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
+              "RelativeToolTip": "Test\\Services\\LoginService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:04:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserNotConnectedException.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotConnectedException.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\UserNotConnectedException.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotConnectedException.cs",
+              "RelativeToolTip": "Test\\Models\\Exceptions\\UserNotConnectedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:22:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test unitaire\\app.config",
+              "RelativeDocumentMoniker": "Test unitaire\\app.config",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test unitaire\\app.config",
+              "RelativeToolTip": "Test unitaire\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T14:24:30.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test unitaire\\packages.config",
+              "RelativeDocumentMoniker": "Test unitaire\\packages.config",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test unitaire\\packages.config",
+              "RelativeToolTip": "Test unitaire\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T14:24:33.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Home.cshtml",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:15:48.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PasswordEncryption.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeDocumentMoniker": "Test\\Utils\\PasswordEncryption.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeToolTip": "Test\\Utils\\PasswordEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:40:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Test\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:15:05.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Test\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:29:44.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "Test\\Models\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:12:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Test\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T07:51:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:36:26.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "PasswordException.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\Exceptions\\PasswordException.cs",
               "RelativeDocumentMoniker": "Test\\Models\\Exceptions\\PasswordException.cs",
@@ -184,19 +299,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T12:29:41.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Home\\Login.cshtml",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Test\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T07:51:54.254Z",
               "EditorCaption": ""
             }
           ]

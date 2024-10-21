@@ -12,8 +12,11 @@ namespace Test.Utils
             if(string.IsNullOrEmpty(password))
                 throw new PasswordException("Password can't be empty");
             
+
             byte[] sourceByte = Encoding.UTF8.GetBytes(password);
             byte[] hashbyte = SHA1.HashData(sourceByte);
+
+            //Convert the byte hashed to string 
             string hash = BitConverter.ToString(hashbyte).Replace("-", String.Empty);
             return hash.ToLower();
             

@@ -17,7 +17,7 @@ namespace Test.Services
             string query = "SELECT * FROM login where username=@username and password=@password";
             try
             {
-                NpgsqlConnection connection = new (connectionStrings);
+                NpgsqlConnection connection = new(connectionStrings);
                 await connection.OpenAsync();
 
 
@@ -28,7 +28,7 @@ namespace Test.Services
 
                 await using NpgsqlDataReader reader = await cmd.ExecuteReaderAsync();
 
-                
+
                 if (!reader.HasRows)
                     throw new UserNotFoundException();
 
@@ -38,10 +38,14 @@ namespace Test.Services
                     return toCheck;
                 }
             }
-            catch
+            catch (PostgresException)
             {
                 //Throw an exception if we got an connection error from the connection string in appsettings
                 throw new ConnectionException();
+            }
+            catch
+            {
+                throw;
             }
             throw new UserNotFoundException();
         }

@@ -6,6 +6,7 @@ namespace Test.Models.Exceptions
     {
         public UserNotFoundException()
         {
+            throw new UserNotFoundException("Verify your username/password");
         }
 
         public UserNotFoundException(string? message) : base(message)
@@ -16,8 +17,5 @@ namespace Test.Models.Exceptions
         {
         }
 
-        protected UserNotFoundException(SerializationInfo info, StreamingContext context) : base(info, context)
-        {
-        }
     }
 }

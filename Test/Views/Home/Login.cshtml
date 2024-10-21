@@ -1,4 +1,7 @@
-﻿<html>
+﻿@{
+    string error = (string?)TempData["error"] ?? string.Empty;
+}
+<html>
     <head>
         <title>Login Page</title>
     </head>
@@ -10,6 +13,12 @@
             <div>
                 <input type="password" name="password"/>
             </div>
+            @if(!string.IsNullOrEmpty(error))
+            {
+                <div>
+                    <div style="color:red;">@error</div>
+                </div>
+            }
             <div>
                 <button>Login</button>
             </div>

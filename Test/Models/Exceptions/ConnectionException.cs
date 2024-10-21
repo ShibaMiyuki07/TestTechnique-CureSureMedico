@@ -17,8 +17,5 @@ namespace Test.Models.Exceptions
         {
         }
 
-        protected ConnectionException(SerializationInfo info, StreamingContext context) : base(info, context)
-        {
-        }
     }
 }
