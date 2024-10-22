@@ -7,7 +7,7 @@ namespace Test.Utils
     public class SessionService
     {
         //Function to check if the session is valid 
-        public static void IsConnected(string session)
+        public static bool IsConnected(string session)
         {
             if (string.IsNullOrEmpty(session))
                 throw new UserNotConnectedException();
@@ -16,7 +16,8 @@ namespace Test.Utils
 
             if(user.UserId == 0)
                 throw new UserNotConnectedException();
-
+            
+            return true;
         }
 
         //Get data from the session
