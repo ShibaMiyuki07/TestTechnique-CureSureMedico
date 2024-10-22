@@ -1,8 +1,6 @@
 ## Project launch
 
-```
-dotnet run 
-```
+To launch the project, an .exe files is included in the launch folder, you need to lauch it in order to test it. There will be an url in the console created from it so you need to copy and paste it in your browser. 
 
 ## Test directory
 
