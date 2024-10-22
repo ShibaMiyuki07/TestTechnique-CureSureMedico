@@ -1,0 +1,5 @@
+##Project launch
+
+```
+dotnet run 
+```
