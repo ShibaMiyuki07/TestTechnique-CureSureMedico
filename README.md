@@ -13,6 +13,7 @@ During the test of encryption, I used this sha-1 converter to compare the passwo
 ## Databasa
 
 The database is hosted in [https://freedb.tech/](https://freedb.tech/) so i will include the connection string in the mail. 
+The connection string is add to the appsettings in the launch/Website folder.
 
 ## New User 
 I added a user creator executable in launch/InsertUser folder.
