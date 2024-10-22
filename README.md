@@ -16,4 +16,4 @@ The database is hosted in [https://freedb.tech/](https://freedb.tech/) so i will
 The connection string is add to the appsettings in the launch/Website folder.
 
 ## New User 
-I added a user creator executable in launch/InsertUser folder.
+I added a user creator executable in launch/InsertUser folder. It may need .net sdk to run.
