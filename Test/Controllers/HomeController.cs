@@ -56,7 +56,9 @@ namespace Test.Controllers
         {
             try
             {
-                SessionService.IsConnected(contextAccessor.HttpContext!.Session.GetString("UserData")!);
+                string session = contextAccessor.HttpContext!.Session.GetString("UserData")!;
+                ViewData["isConnected"] = SessionService.IsConnected(session);
+                ViewData["userData"] = SessionService.GetUserData(session);
                 return View();
             }
             catch (Exception ex) 

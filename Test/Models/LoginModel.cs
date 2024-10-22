@@ -1,5 +1,7 @@
-﻿using Npgsql;
+﻿using MySql.Data;
+using MySql.Data.MySqlClient;
 using System.Data;
+using System.Data.Common;
 
 namespace Test.Models
 {
@@ -11,7 +13,7 @@ namespace Test.Models
         public string Password { get; set; } = String.Empty;
 
         #region FromReader
-        public LoginModel FromReader(NpgsqlDataReader reader)
+        public LoginModel FromReader(DbDataReader reader)
         {
             return new LoginModel()
             {
