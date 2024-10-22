@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertUser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee8e7f6aa708c8c256965c5fe2d5ab6877652f6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72f673f0390d312719bc2d235e6318322691fdc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertUser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertUser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
