@@ -1,7 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using Test.Utils;
 
-MySqlConnection connection = new("");
+MySqlConnection connection = new("Server=sql.freedb.tech;Port=3306;Database=freedb_test_cure;User Id=freedb_manitra;Password=#TRfJ2KZtp7n*UP;");
 
 Console.WriteLine("Enter username :");
 string? username = Console.ReadLine();

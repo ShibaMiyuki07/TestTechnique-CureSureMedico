@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\dotnet\\Test technique\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E5B390F-9F40-4215-AAE1-8CEDE0860084}|InsertUser\\InsertUser.csproj|d:\\dotnet\\test technique\\test\\insertuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,8 +19,32 @@
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E5B390F-9F40-4215-AAE1-8CEDE0860084}|InsertUser\\InsertUser.csproj|d:\\dotnet\\test technique\\test\\insertuser\\insertuser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -55,14 +67,6 @@
       "RelativeMoniker": "D:0:0:{915059F3-C805-4016-A5A1-11F427135086}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\utils\\passwordencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|solutionrelative:test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A3CB7DF-38C2-4676-B651-954A861ED736}|Test\\Test.csproj|d:\\dotnet\\test technique\\test\\test\\models\\exceptions\\connectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,56 +114,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Test\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T07:26:00.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:41:38.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SessionService.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
-              "RelativeDocumentMoniker": "Test\\Utils\\SessionService.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
-              "RelativeToolTip": "Test\\Utils\\SessionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:20:41.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LoginService.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Test\\Services\\LoginService.cs",
               "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Services\\LoginService.cs",
               "RelativeToolTip": "Test\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T08:04:15.089Z",
               "EditorCaption": ""
@@ -183,26 +144,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Test\\appsettings.Development.json",
               "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.Development.json",
               "RelativeToolTip": "Test\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-21T09:01:32.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Home.cshtml",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Home.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Home\\Home.cshtml",
               "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Home.cshtml",
               "RelativeToolTip": "Test\\Views\\Home\\Home.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-21T14:15:48.647Z",
               "EditorCaption": ""
@@ -210,6 +171,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\InsertUser\\Program.cs",
+              "RelativeDocumentMoniker": "InsertUser\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\InsertUser\\Program.cs",
+              "RelativeToolTip": "InsertUser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:06:32.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Test.csproj",
+              "RelativeDocumentMoniker": "Test\\Test.csproj",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Test.csproj",
+              "RelativeToolTip": "Test\\Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T06:44:42.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordEncryption.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeDocumentMoniker": "Test\\Utils\\PasswordEncryption.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
+              "RelativeToolTip": "Test\\Utils\\PasswordEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:40:28.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:41:38.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\Home\\Login.cshtml",
@@ -222,20 +235,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PasswordEncryption.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
-              "RelativeDocumentMoniker": "Test\\Utils\\PasswordEncryption.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\PasswordEncryption.cs",
-              "RelativeToolTip": "Test\\Utils\\PasswordEncryption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:40:28.748Z",
+              "WhenOpened": "2024-10-21T07:34:54.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
+              "Title": "SessionService.cs",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
+              "RelativeDocumentMoniker": "Test\\Utils\\SessionService.cs",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Utils\\SessionService.cs",
+              "RelativeToolTip": "Test\\Utils\\SessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:20:41.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Test\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Test\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:26:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
@@ -248,20 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\InsertUser\\Program.cs",
-              "RelativeDocumentMoniker": "InsertUser\\Program.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\InsertUser\\Program.cs",
-              "RelativeToolTip": "InsertUser\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:06:32.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "InsertUser",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\InsertUser\\InsertUser.csproj",
               "RelativeDocumentMoniker": "InsertUser\\InsertUser.csproj",
@@ -274,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\appsettings.json",
               "RelativeDocumentMoniker": "Test\\appsettings.json",
@@ -287,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PasswordTest.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\UnitTest\\PasswordTest.cs",
               "RelativeDocumentMoniker": "UnitTest\\PasswordTest.cs",
@@ -300,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "UnitTest",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\UnitTest\\UnitTest.csproj",
               "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
@@ -313,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SessionTest.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\UnitTest\\SessionTest.cs",
               "RelativeDocumentMoniker": "UnitTest\\SessionTest.cs",
@@ -322,19 +348,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T06:51:07.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Test",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Test.csproj",
-              "RelativeDocumentMoniker": "Test\\Test.csproj",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Test.csproj",
-              "RelativeToolTip": "Test\\Test.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T06:44:42.521Z",
               "EditorCaption": ""
             },
             {
@@ -353,19 +366,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Test\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\dotnet\\Test technique\\Test\\Test\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Test\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:34:54.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\_ViewImports.cshtml",
@@ -378,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Test\\Views\\_ViewStart.cshtml",
@@ -391,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "D:\\dotnet\\Test technique\\Test\\Test\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Test\\Models\\LoginModel.cs",

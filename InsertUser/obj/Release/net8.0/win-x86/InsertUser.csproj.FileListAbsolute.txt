@@ -1,0 +1,6 @@
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.csproj.AssemblyReference.cache
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.AssemblyInfoInputs.cache
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.AssemblyInfo.cs
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.csproj.CoreCompileInputs.cache
+D:\dotnet\Test technique\Test\InsertUser\obj\Release\net8.0\win-x86\InsertUser.sourcelink.json

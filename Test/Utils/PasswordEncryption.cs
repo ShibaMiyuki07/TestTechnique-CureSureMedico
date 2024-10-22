@@ -1,5 +1,4 @@
-﻿using BCrypt.Net;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 using System.Text;
 using Test.Models.Exceptions;
 

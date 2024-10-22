@@ -1,0 +1,13 @@
+﻿@{
+    LoginModel user = (LoginModel)ViewData["userData"]!;
+}
+<html>
+    <head>
+        <title>Home</title>
+    </head>
+    <body>
+        <div>You're connected</div>
+        <div>Your ID : @user.UserId</div>
+        <div>Your name : @user.UserName</div>
+    </body>
+</html>
